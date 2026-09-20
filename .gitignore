@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
+.pytest_cache/
+
+.streamlit/
+.env
+
+.DS_Store
+Thumbs.db
