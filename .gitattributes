@@ -1,0 +1,15 @@
+# Auto-detect text files and normalize line endings to LF on commit
+* text=auto
+
+# Python, Markdown, Text, and Notebook files
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.ipynb text eol=lf
+
+# Common binary formats
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
